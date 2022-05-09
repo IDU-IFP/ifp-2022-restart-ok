@@ -42,6 +42,7 @@
 # 11 2.3
 # 11 0.0
 
+# 첫번째 시도
 term = int(input())
 for _ in range(term):
     sub = int(input())
